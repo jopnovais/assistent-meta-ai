@@ -4,3 +4,7 @@
   - League of Legends
   - Valorant
   - Counter-Strike
+
+# Assistant Meta AI
+
+[![Aplicação](https://img.shields.io/badge/Aplicação-Jokenpô-FF4500?style=flat-square)](https://assistentaijop.netlify.app/)
